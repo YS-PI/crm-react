@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Nombre",
+      "empresa": "Empresa",
+      "email": "email@email.com",
+      "telefono": "987654321",
+      "notas": "Hola mundo",
+      "id": 1
+    },
+    {
+      "nombre": "Nombre2",
+      "empresa": "Empresa2",
+      "email": "email2@email.com",
+      "telefono": "987654322",
+      "notas": "Agregando ",
+      "id": 2
+    },
+    {
+      "nombre": "Nombre3",
+      "empresa": "Empresa3",
+      "email": "email3@email.com",
+      "telefono": "987654323",
+      "notas": "Enviando",
+      "id": 3
+    },
+    {
+      "nombre": "Tequilaaaa",
+      "empresa": "Empresa",
+      "email": "email@email.com",
+      "telefono": "987654321",
+      "notas": "Hola mundo",
+      "id": 4
+    },
+    {
+      "nombre": "Capitán América",
+      "empresa": "Marvel",
+      "email": "capamerica@marvel.com",
+      "telefono": "987612345",
+      "notas": "Marvel!!!",
+      "id": 5
+    }
+  ]
+}
