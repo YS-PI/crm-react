@@ -7,6 +7,14 @@
       "telefono": "987654321",
       "notas": "Hola mundo",
       "id": 1
+    },
+    {
+      "nombre": "Tequila",
+      "empresa": "Licor",
+      "email": "tequila@email.com",
+      "telefono": "987654322",
+      "notas": "Hola ",
+      "id": 2
     }
   ]
 }
